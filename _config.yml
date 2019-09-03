@@ -1,5 +1,5 @@
 title: Minimal theme
-logo: ./media/Profile.png
+logo: /media/Profile.png
 description: Portfolio of Jacob Abraham
 google_analytics:
 theme: jekyll-theme-minimal
