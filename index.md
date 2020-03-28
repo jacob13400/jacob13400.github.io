@@ -3,6 +3,14 @@ I am Jacob Abraham. A student of Computer Science and Engineering from India. I 
 
 I am using this platform to express my love for coding and its various fields.
 
+## Carpe Dictum CET 2019
+
+This is the literary fest of my college. This was held on March 17th, 2019. It is held every year during the even semester. I had the chance to be the host for one of the event, this was an experience that helped teach me management and improve on my communication skills. 
+
+<img src="./media/17-03-2019--3.jpg" width="150" height="200">
+<img src="./media/17-03-2019--1.jpg" width="150" height="200">
+<img src="./media/17-03-2019--2.jpg" width="200" height="200" >
+
 ## Pass-The-Code GECB 2019
 
 This was a wonderful experience for me. My first ever team competitive coding contest. I had never had such an adrenaline rush as I had that day. It was an exuberant experience and well rewarded.
