@@ -3,14 +3,23 @@ I am Jacob Abraham. A student of Computer Science and Engineering from India. I 
 
 I am using this platform to express my love towards coding and its various fields.
 
+## Evoke TKM 2019
+
+My first ever Hackathon experience was at TKM. My friends and I on a whim took a train and went there to see what a "hackathon" is. We had a lot of fun on those 2 days. It was on 2nd February, 2019. A 24 hour hackathon and we were surprised and excited to hear our victory and about the internship offers provided.
+
+<img src="./media/02-02-2019--1.jpg" width="150" >
+<img src="./media/02-02-2019--2.jpg" width="150" >
+<img src="./media/02-02-2019--3.jpg" width="150" >
+<img src="./media/02-02-2019--4.jpg" width="150" >
+
 ## Dhanak IIST 2018
 
-My friends and I visited this beautiful campus just a few months after joining college. It was a beautiful experiences and we had a wonderful time.
+My friends and I visited this beautiful campus just a few months after joining college. It was a beautiful experiences and we had a wonderful time. It was on September 29, 2018. We visited the campus during their fest, Dhanak.
 
-<img src="./media/29-09-2018--1.jpg" width="100" >
-<img src="./media/29-09-2018--2.jpg" width="100" >
-<img src="./media/29-09-2018--3.jpg" width="100" >
-<img src="./media/29-09-2018--4.jpg" width="100" >
+<img src="./media/29-09-2018--1.jpg" width="150" >
+<img src="./media/29-09-2018--2.jpg" width="150" >
+<img src="./media/29-09-2018--3.jpg" width="150" >
+<img src="./media/29-09-2018--4.jpg" width="150" >
 
 ### Contact
 
