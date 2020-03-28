@@ -3,6 +3,16 @@ I am Jacob Abraham. A student of Computer Science and Engineering from India. I 
 
 I am using this platform to express my love for coding and its various fields.
 
+## ISQUIP Chengannur 2019
+
+A 3-day workshop and 24-hour hackathon which began on July 11, 2019. This was a pleasant experience. We got to meet wonderful people and compete against them. This victory will always be cherished in our hearts.  
+
+<img src="./media/09-07-2019--6.jpg" width="200" height="200">
+<img src="./media/09-07-2019--1.jpg" width="150" height="200">
+<img src="./media/09-07-2019--3.jpg" width="150" height="200">
+<img src="./media/09-07-2019--4.jpg" width="150" height="200">
+<img src="./media/09-07-2019--5.jpg" width="150" height="200">
+
 ## Carpe Dictum CET 2019
 
 This is the literary fest of my college. This was held on March 17th, 2019. It is held every year during the even semester. I had the chance to be the host for one of the event, this was an experience that helped teach me management and improve on my communication skills. 
